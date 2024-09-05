@@ -1,0 +1,6 @@
+path: /content/gdrive/My Drive/YOLOv8_car_training/data/
+train: images/train 
+val: images/val  
+
+nc: 1
+names: ['car']
