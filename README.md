@@ -124,7 +124,7 @@ After training, validating, and testing the model, the following results were ob
 
 Sample detection image:
 
-![Detection Example](link_to_your_image)
+![Detection Example]([link_to_your_image](https://github.com/sarachaourar/YOLOv8-Based-Car-Detection-on-Satellite-Images/blob/main/Detection_example.jpg))
 
 ## License
 
